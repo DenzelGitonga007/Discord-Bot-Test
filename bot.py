@@ -14,5 +14,5 @@ async def on_ready():
 async def hello(ctx):
     await ctx.send('Hello!')
 
-# Replace 'YOUR_TOKEN_HERE' with your bot's actual token
-bot.run('MTE0Njc4NDA2MTg4MTMzNTkzOA.GG35Rb.-iN7pkmvT7utZxDufEmP470aQ50opI1e8PxGUU')
+# Bot's actual token
+# bot.run('MTE0Njc4NDA2MTg4MTMzNTkzOA.GWox_K.dPHnK-h3-CKmjXozyyUczkHsJedmxTBykW0u84')
