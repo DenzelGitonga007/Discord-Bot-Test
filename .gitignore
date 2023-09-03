@@ -1,2 +1,5 @@
-env-testing-bot/
+
 .env
+*.pyc
+.
+env-testing-bot/
